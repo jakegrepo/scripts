@@ -1,0 +1,19 @@
+Hill Giant:3366, 3157, 3391, 3142
+Black demon:2849, 9788, 2872, 9768
+Troll/Mountain troll:2766, 10165, 2804, 10125
+Fire giant:2386, 9791, 2404, 9755/2402, 9782
+Ankou:2465, 9812, 2485, 9791
+Greater demon:1669, 10108, 1723, 10080
+Hellhound:1636, 10075, 1654, 10051
+Kalphite/Kalphite Worker:3269, 9531, 3288, 9508
+Blue dragon/Baby blue dragon:2881, 9779, 2900, 9760
+Bloodveld/Mutated Bloodveld/Insatiable mutated Bloodveld:1671, 10081, 1686, 10067
+Wyrm:1251, 10203, 1290, 10172
+Aberrant spectre/Abhorrent spectre:2439, 9797, 2474, 9764
+Turoth/Spiked Turoth:2707, 10016, 2733, 9986
+Kurask/King kurask:2688, 10007, 2710, 9991
+Spiritual creature/Spiritual ranger:2881, 5372, 2944, 5335, 2
+Dagannoth:1654, 10004, 1681, 9995
+Gargoyle:3423, 9952, 3448, 9926, 3
+Moss giant:1679, 10053, 1696, 10029
+Scurrius:6690,3338, 6714, 3320

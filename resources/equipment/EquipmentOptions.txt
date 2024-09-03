@@ -1,0 +1,11 @@
+Head:None,Coif,Archer helm,Robin hood hat,Black mask,Obsidian helmet,Iron full helm,Steel full helm,Black full helm,Mithril full helm,Adamant full helm,Rune full helm,Nose peg,Bandos mitre,Guthix mitre,Void melee helm
+Cape:None,Ava's accumulator,Ava's attractor,Ranging cape,Obsidian cape,Saradomin cloak,Armadyl cloak,Fire cape,Infernal cape
+Necklace:None,Amulet of power,Amulet of strength,Amulet of glory,Amulet of fury,Salve amulet,Salve amulet(ei)
+Weapon:None,Iron dart,Shortbow,Oak shortbow,Willow shortbow,Dorgeshuun crossbow,Maple shortbow,Yew shortbow,Magic shortbow,Magic shortbow (i),Rune crossbow,Iron scimitar,Steel scimitar,Black scimitar,Mithril scimitar,Adamant scimitar,Rune scimitar,Dragon scimitar,Ursine chainmace,Granite hammer,Abyssal whip,Dragon dagger,Abyssal dagger,Dragon sword,Viggora's chainmace,Saradomin sword,Leaf-bladed battleaxe,Leaf-bladed sword,Dark bow,Light ballista,Bone mace
+Top:None,Monk's robe top,Red d'hide body,Black d'hide body,Karil's leathertop,Iron platebody,Steel platebody,Black platebody,Mithril platebody,Adamant platebody,Rune chainbody,Rune platebody,Obsidian platebody,Zamorak monk top,Void knight top
+Bottom:None,Monk's robe,Red d'hide chaps,Black d'hide chaps,Karil's leatherskirt,Iron platelegs,Steel platelegs,Black platelegs,Mithril platelegs,Adamant platelegs,Rune platelegs,Fremennik kilt,Obsidian platelegs,Void knight robe
+Gloves:None,Combat bracelet,Black d'hide vambraces,Barrows gloves,Void knight gloves
+Boots:None,Climbing boots,Snakeskin boots,Ranger boots,Spiked manacles,Iron boots,Rune boots,Dragon boots,Boots of stone
+Ring:None,Ring of wealth (5),Archers ring,Archers ring (i)
+Arrows:None,Bone bolts,Iron arrow,Steel arrow,Mithril arrow,Adamant arrow,Rune arrow,Amethyst arrow,Dragon arrow,Holy blessing,Dragonstone bolts (e)
+Shield:None,Wooden shield,Anti-dragon shield,Dragonfire shield,Iron kiteshield,Steel kiteshield,Black kiteshield,Mithril kiteshield,Adamant kiteshield,Rune kiteshield,Dragon defender,Bandos kiteshield

@@ -1,0 +1,11 @@
+Head:None,Coif,Robin hood hat,Archer helm,Karil's coif,Armadyl helmet
+Cape:None,Ava's attractor,Ava's accumulator,Ranging cape,Assembler
+Necklace:None,Amulet of accuracy,Amulet of power,Amulet of glory,Amulet of fury,Necklace of anguish
+Weapon:None,Shortbow,Oak shortbow,Willow shortbow,Maple shortbow,Yew shortbow,Magic shortbow,Magic shortbow (i),Dorgeshuun crossbow,Rune crossbow,Armadyl crossbow,Twisted bow,Dragon hunter crossbow,Bronze darts,Iron darts,Steel darts,Mithril darts,Adamant darts,Bronze knife,Iron knife,Steel knife,Black knife,Mithril knife,Adamant knife
+Top:None,Leather body,Studded body,Green d'hide body,Blue d'hide body,Red d'hide body,Black d'hide body,Karil's leathertop,Armadyl chestplate
+Bottom:None,Leather chaps,Studded chaps,Green d'hide chaps,Blue d'hide chaps,Red d'hide chaps,Black d'hide chaps,Karil's leatherskirt,Armadyl chainskirt
+Gloves:None,Leather vambraces,Studded vambraces,Green d'hide vambraces,Blue d'hide vambraces,Red d'hide vambraces,Black d'hide vambraces,Barrows gloves
+Boots:None,Leather boots,Snakeskin boots,Ranger boots,Pegasian boots
+Ring:None,Ring of recoil,Ring of wealth (5),Archers ring,Archers ring (i)
+Arrows/Bolts:None,Bronze arrow,Iron arrow,Steel arrow,Mithril arrow,Adamant arrow,Rune arrow,Amethyst arrow,Dragon arrow,Bronze bolts,Iron bolts,Steel bolts,Mithril bolts,Adamant bolts,Runite bolts,Dragon bolts
+Shield:None,Bronze kiteshield,Iron kiteshield,Steel kiteshield,Black kiteshield,Mithril kiteshield,Adamant kiteshield,Rune kiteshield,Dragonfire ward

@@ -1,0 +1,9 @@
+Hill Giant:3366, 3157, 3391, 3142
+Ice warriors in the wilderness/Ice warrior:2944, 3897, 2971, 3842
+Bears in the wilderness/Grizzly bear:3082, 3686, 3128, 3640
+Skeletons in the wilderness/Skeleton:3097, 3582, 3125, 3554
+Fire giants in the wilderness/Fire giant:3043, 10350, 3059, 10336
+Revenants in the wilderness/Revenant goblin/Revenant imp/Revenant hobgoblin:3212, 10082, 3237, 10056
+Spiders in the wilderness/Spider/Giant spider:3153, 3896, 3185, 3871
+Black demons in the wilderness/Black demon:3353, 10128, 3374, 10110
+Hill giants in the wilderness/Hill Giant:3291, 3658, 3311, 3645
