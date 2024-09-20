@@ -1,6 +1,6 @@
 Head:None,Iron full helm,Steel full helm,Black full helm,Mithril full helm,Adamant full helm,Rune full helm,Obsidian helmet,Void melee helm,Bandos mitre,Guthix mitre,Helm of neitiznot,
 Cape:None,Obsidian cape,Saradomin cloak,Armadyl cloak,Fire cape,Infernal cape
-Necklace:None,Amulet of power,Amulet of strength,Amulet of glory,Amulet of fury,Salve amulet,Salve amulet(ei),Salve amulet(e),
+Necklace:None,Amulet of power,Amulet of strength,Amulet of glory,Amulet of fury,Salve amulet,Salve amulet (ei),Salve amulet (e),
 Weapon:None,Mithril scimitar,Adamant scimitar,Rune scimitar,Granite hammer,Dragon sword,Dragon scimitar,Viggora's chainmace,Abyssal whip,Abyssal dagger,Saradomin sword,Zombie axe,Ursine chainmace
 Top:None,Monk's robe top,Red d'hide body,Black d'hide body,Karil's leathertop,Iron platebody,Steel platebody,Black platebody,Mithril platebody,Adamant platebody,Rune chainbody,Rune platebody,Obsidian platebody,Zamorak monk top,Void knight top
 Bottom:None,Monk's robe,Red d'hide chaps,Black d'hide chaps,Karil's leatherskirt,Iron platelegs,Steel platelegs,Black platelegs,Mithril platelegs,Adamant platelegs,Rune platelegs,Fremennik kilt,Obsidian platelegs,Void knight robe
