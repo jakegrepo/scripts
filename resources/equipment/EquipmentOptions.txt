@@ -8,4 +8,4 @@ Gloves:None,Combat bracelet,Regen bracelet,Mithril gloves,Adamant gloves,Rune gl
 Boots:None,Climbing boots,Spiked manacles,Iron boots,Rune boots,Dragon boots
 Ring:None,Ring of wealth (5)
 Arrows:None,Adamant arrow,Rune arrow,Amethyst arrow,Sunlight antler bolts
-Shield:None,Wooden shield,Anti-dragon shield,Iron kiteshield,Steel kiteshield,Black kiteshield,Mithril kiteshield,Adamant kiteshield,Rune kiteshield,Dragonfire shield,Dragon defender
+Shield:None,Wooden shield,Anti-dragon shield,Iron kiteshield,Steel kiteshield,Black kiteshield,Mithril kiteshield,Adamant kiteshield,Rune kiteshield,Dragonfire shield,Dragon defender,Black d'hide shield,
