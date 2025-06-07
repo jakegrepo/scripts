@@ -29,4 +29,7 @@ public class CookingNode extends AbstractSkillNode {
         map.put("Raw Fish", levels * perLevel);
         return map;
     }
+        Logger.info("Training Cooking...");
+        return 600;
+    }
 }

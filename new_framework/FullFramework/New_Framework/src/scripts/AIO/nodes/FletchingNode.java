@@ -11,7 +11,8 @@ public class FletchingNode extends AbstractSkillNode {
 
     @Override
     protected int onExecute() {
-        String m = getMethod();
+
+      String m = getMethod();
         Logger.info("Training Fletching via " + (m == null ? "default" : m));
         return 600;
     }
@@ -28,5 +29,8 @@ public class FletchingNode extends AbstractSkillNode {
         java.util.Map<String, Integer> map = new java.util.HashMap<>();
         map.put("Logs", levels * perLevel);
         return map;
+    }
+        Logger.info("Training Fletching...");
+        return 600;
     }
 }

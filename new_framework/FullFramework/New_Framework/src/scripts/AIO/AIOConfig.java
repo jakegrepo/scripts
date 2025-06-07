@@ -67,7 +67,9 @@ public class AIOConfig extends ScriptConfig {
         return false;
     }
 
-    public Map<String, Integer> getGoalLevels() {
+
+
+  public Map<String, Integer> getGoalLevels() {
         return goalLevels;
     }
 }

@@ -27,4 +27,7 @@ public class WoodcuttingNode extends AbstractSkillNode {
         map.put("Axe", 1);
         return map;
     }
+        Logger.info("Training Woodcutting...");
+        return 600;
+    }
 }

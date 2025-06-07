@@ -30,4 +30,7 @@ public class FishingNode extends AbstractSkillNode {
         map.put("Fishing Bait", levels * perLevel);
         return map;
     }
+        Logger.info("Training Fishing...");
+        return 600;
+    }
 }

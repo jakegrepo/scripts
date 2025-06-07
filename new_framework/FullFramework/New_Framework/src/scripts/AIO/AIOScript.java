@@ -5,6 +5,11 @@ import core.gui.AbstractSettingsTab;
 import core.paint.PaintBuilder;
 import core.paint.ScriptPaint;
 import core.state.ScriptState;
+import core.node.TaskNode;
+import core.paint.PaintBuilder;
+import core.paint.ScriptPaint;
+import core.state.ScriptState;
+import org.dreambot.api.methods.skills.Skill;
 import org.dreambot.api.script.Category;
 import org.dreambot.api.script.ScriptManifest;
 import scripts.AIO.gui.AIOSettingsTab;
@@ -12,6 +17,9 @@ import scripts.AIO.nodes.*;
 
 import java.awt.*;
 import java.util.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
 
 @ScriptManifest(name = "ScarAIO", author = "Scarfade", version = 1.0, description = "All in one skilling", category = Category.MISC)
 public class AIOScript extends ScarScript<AIOConfig> {
@@ -28,6 +36,9 @@ public class AIOScript extends ScarScript<AIOConfig> {
         paint = new PaintBuilder(context)
                 .setTitle("ScarAIO")
                 .addRow("Status", () -> activeNode != null ? activeNode.getName() : "Idle")
+        paint = new PaintBuilder(context)
+                .setTitle("ScarAIO")
+                .addRow("Status", () -> context.tasks().getActiveNode() != null ? context.tasks().getActiveNode().getName() : "Idle")
                 .build();
         setState(ScriptState.RUNNING);
     }
@@ -52,6 +63,14 @@ public class AIOScript extends ScarScript<AIOConfig> {
         for (Map.Entry<String, Integer> e : totals.entrySet()) {
             context.getLogger().info("Need " + e.getValue() + " x " + e.getKey());
         }
+        context.tasks().clearNodes();
+        List<TaskNode> nodes = new ArrayList<>();
+        nodes.add(new FishingNode(getConfig()));
+        nodes.add(new WoodcuttingNode(getConfig()));
+        nodes.add(new CookingNode(getConfig()));
+        nodes.add(new FletchingNode(getConfig()));
+        Collections.shuffle(nodes);
+        nodes.forEach(context.tasks()::addNode);
     }
 
     @Override
@@ -74,6 +93,9 @@ public class AIOScript extends ScarScript<AIOConfig> {
             return activeNode.execute();
         }
         setState(ScriptState.STOPPED);
+        if (getState().isRunnable()) {
+            return context.tasks().execute();
+        }
         return 600;
     }
 
