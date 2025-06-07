@@ -47,6 +47,26 @@ public class AIOConfig extends ScriptConfig {
         markDirty();
     }
 
+    /**
+     * Checks if a method is excluded for the given skill.
+     */
+    public boolean isMethodExcluded(Skill skill, String method) {
+        if (method == null) {
+            return false;
+        }
+        String excluded = getExcludedMethods(skill);
+        if (excluded.isEmpty()) {
+            return false;
+        }
+        String[] parts = excluded.split(",");
+        for (String part : parts) {
+            if (part.trim().equalsIgnoreCase(method)) {
+                return true;
+            }
+        }
+        return false;
+    }
+
     public Map<String, Integer> getGoalLevels() {
         return goalLevels;
     }

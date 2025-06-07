@@ -11,7 +11,20 @@ public class WoodcuttingNode extends AbstractSkillNode {
 
     @Override
     protected int onExecute() {
-        Logger.info("Training Woodcutting...");
+        String m = getMethod();
+        Logger.info("Training Woodcutting via " + (m == null ? "default" : m));
         return 600;
+    }
+
+    @Override
+    protected String[] getAvailableMethods() {
+        return new String[]{"Tree", "Oak", "Willow"};
+    }
+
+    @Override
+    protected java.util.Map<String, Integer> calculateSupplies(String method, int currentLevel, int targetLevel) {
+        java.util.Map<String, Integer> map = new java.util.HashMap<>();
+        map.put("Axe", 1);
+        return map;
     }
 }
